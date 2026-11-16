@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:42:18Z",
+ "updated": "2026-11-16T06:47:18Z",
  "account": {
   "broker": "Fusion Markets",
   "type": "Demo",
@@ -9,7 +9,7 @@
  },
  "summary": {
   "balance": 4681.1,
-  "equity": 4710.48,
+  "equity": 4711.33,
   "deposits": 5000.0,
   "withdrawals": 0.0,
   "net_profit": -318.9,
@@ -3481,9 +3481,9 @@
    4707.66
   ],
   [
-   "2026-11-16T06:42:18Z",
+   "2026-11-16T06:47:18Z",
    4681.1,
-   4710.48
+   4711.33
   ]
  ],
  "daily": [
@@ -3600,7 +3600,7 @@
    "open_price": 3870.45,
    "sl": 3869.59,
    "open_time": "2026-11-16T03:30:00Z",
-   "profit": 29.38
+   "profit": 30.23
   }
  ],
  "history": [
