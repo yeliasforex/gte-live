@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:39:57Z",
+ "updated": "2026-11-24T11:44:58Z",
  "account": {
   "broker": "Fusion Markets",
   "type": "Demo",
@@ -8,14 +8,14 @@
   "started": "2026-10-02"
  },
  "summary": {
-  "balance": 4760.66,
-  "equity": 4771.0,
+  "balance": 4762.71,
+  "equity": 4760.06,
   "deposits": 5000.0,
   "withdrawals": 0.0,
-  "net_profit": -239.34,
-  "gain_pct": -4.79,
-  "win_rate": 47.1,
-  "trades": 68,
+  "net_profit": -237.29,
+  "gain_pct": -4.75,
+  "win_rate": 47.8,
+  "trades": 69,
   "max_drawdown_pct": 12.34,
   "profit_factor": 0.74
  },
@@ -4301,9 +4301,14 @@
    4768.0
   ],
   [
-   "2026-11-24T11:39:57Z",
-   4760.66,
-   4771.0
+   "2026-11-24T11:41:51Z",
+   4765.99,
+   4765.99
+  ],
+  [
+   "2026-11-24T11:44:58Z",
+   4762.71,
+   4760.06
   ]
  ],
  "daily": [
@@ -4422,18 +4427,13 @@
   [
    "2026-11-19",
    29.03
+  ],
+  [
+   "2026-11-24",
+   2.0
   ]
  ],
  "open": [
-  {
-   "engine": "Alpha",
-   "side": "sell",
-   "lots": 0.02,
-   "open_price": 3632.54,
-   "sl": 3631.49,
-   "open_time": "2026-11-24T03:15:01Z",
-   "profit": 7.26
-  },
   {
    "engine": "Beta",
    "side": "sell",
@@ -4441,7 +4441,7 @@
    "open_price": 3631.99,
    "sl": 3653.66,
    "open_time": "2026-11-24T03:15:02Z",
-   "profit": 3.08
+   "profit": -2.65
   }
  ],
  "history": [
@@ -5853,6 +5853,27 @@
    "mae_pips": -69.4,
    "peak_at": "2026-11-19T16:02:00Z",
    "stop_r": 0.05
+  },
+  {
+   "engine": "Alpha",
+   "side": "sell",
+   "lots": 0.02,
+   "open_time": "2026-11-24T03:15:01Z",
+   "close_time": "2026-11-24T11:41:51Z",
+   "open_price": 3632.54,
+   "close_price": 3631.49,
+   "profit": 2.0,
+   "exit_reason": "stop",
+   "result_r": 0.05,
+   "risk_usd": 42.12,
+   "mfe_r": 1.19,
+   "mae_r": -0.39,
+   "mfe_usd": 50.14,
+   "mae_usd": -16.28,
+   "mfe_pips": 250.7,
+   "mae_pips": -81.4,
+   "peak_at": "2026-11-24T08:29:00Z",
+   "stop_r": 0.0
   }
  ]
 }
